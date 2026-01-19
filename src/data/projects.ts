@@ -16,12 +16,12 @@ export interface Project {
 export const projects: Project[] = [
   {
     id: 1,
-    name: '项目示例 1',
-    description: '这是一个示例项目，展示了我的开发能力。项目采用现代化的技术栈，实现了流畅的用户体验和优秀的性能表现。',
-    techStack: ['React', 'TypeScript', 'Tailwind CSS'],
-    image: '/project1.jpg', // 可以替换为实际图片路径
-    link: 'https://example.com',
-    githubLink: 'https://github.com',
+    name: 'Markdown 编辑器',
+    description: '一个功能强大的在线 Markdown 编辑器，支持实时预览、语法高亮和导出功能。提供简洁的用户界面和流畅的编辑体验。',
+    techStack: ['React', 'TypeScript', 'Markdown', 'Vite'],
+    image: '/markdown-editor.jpg', // 可以替换为实际截图
+    link: 'https://markdown-4qesqx0pw-dizhengs-projects.vercel.app/',
+    githubLink: 'https://github.com/dizheng/markdown-editor', // 替换为你的 GitHub 仓库地址
   },
   {
     id: 2,
