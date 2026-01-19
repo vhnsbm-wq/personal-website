@@ -25,7 +25,7 @@ export const projects: Project[] = [
   },
   {
     id: 2,
-    name: '项目示例 2',
+    name: 'Markdown 编辑器',
     description: '另一个示例项目，使用了现代前端技术栈。该项目展示了全栈开发能力，包含前端界面和后端API。',
     techStack: ['Vue', 'Node.js', 'MongoDB', 'Express'],
     image: '/project2.jpg', // 可以替换为实际图片路径
@@ -34,7 +34,7 @@ export const projects: Project[] = [
   },
   {
     id: 3,
-    name: '项目示例 3',
+    name: 'Markdown 编辑器',
     description: '第三个示例项目，展示了全栈开发能力。使用 Next.js 构建，实现了服务端渲染和静态生成功能。',
     techStack: ['Next.js', 'TypeScript', 'PostgreSQL', 'Prisma'],
     image: '/project3.jpg', // 可以替换为实际图片路径
