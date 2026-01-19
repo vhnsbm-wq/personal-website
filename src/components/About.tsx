@@ -18,7 +18,7 @@ const About = () => {
         transition={{ duration: 0.6 }}
       >
         <h2 className="text-4xl md:text-5xl font-bold mb-8 text-center bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
-          关于我！
+          关于我
         </h2>
 
         <div className="max-w-3xl mx-auto">
